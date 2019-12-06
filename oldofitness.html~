@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel = "stylesheet" type = "text/css" href= "ofitness.css">
+  <link href= "https://fonts.google.com/specimen/Faster+One?selection.family=Faster+One" rel="stylesheet">
+  </head>
+
+<body class = "fred-background">
+  <h1>
+    Oberlin Fitness
+  </h1>
+  <p> Theres so much here...its incredible</p>
+  <ul class = "fun-background">
+    <li><a href="Equipment (Weight Room)"> Equipment</a></li>
+    <li><a href="Team Schedules"> Team Schedules</a></li>
+  </ul>
+  <h2 class = "silver-background">Literally....Who Are You</h2>
+  <ul class = "stupid-background">
+  <li><input type="radio" name ="My Name is" value="William Howard Taft"> William Howard Taft <br></li>
+  <li><input type = "radio" name="My Name is" value = "Sarah Palin"> Sarah Palin<br></li>
+  </ul>
+  <h3>
+    This could be you</h3>
+  <img class = "img" src = "https://i.ytimg.com/vi/rU-FHPfaCDA/maxresdefault.jpg" alt = "Man working out">
+  <img class = "img" src = "https://media2.giphy.com/media/2WxWfiavndgcM/giphy.gif">
+  </html>

@@ -1,0 +1,38 @@
+body{
+  background-color: green;
+}
+
+h1{
+  color: navy;
+  margin-left: 20px;
+  text-align: right;
+  font-size: 100px;
+  padding-bottom: 10px;
+  font-family: 'Faster One', sans-serif;
+}
+h2{
+  color: pink;
+  margin-left: 50px;
+}
+h3{
+  color: brown;
+}
+img {
+  border-radius: 15px;
+  width: 1000px;
+  border-style: solid;
+  border-color: blue;
+  height: 500px;
+}
+.silver-background{
+  background-color: silver;
+}
+.stupid-background{
+  background: radial-gradient(blue, red);
+}
+.fun-background{
+  background: linear-gradient(brown, pink);
+}
+.fred-background{
+  background-image: url(https://cdn.shopify.com/s/files/1/0013/4332/products/FR1004JA-Large-Logo_1024x1024.gif?v=1248287292)
+}
